@@ -22,8 +22,6 @@
 # Go workspace file
 go.work
 go.work.sum
-sonar-project.properties
-coverage.html
 
 # env file
 .env
